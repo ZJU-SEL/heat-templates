@@ -250,7 +250,7 @@ properties:
     shared_secret: c1oudc0w
     host: loggregator_ip
     use_ssl:  false
-    port: 443
+    port: 3456
 
   ha_proxy:
     ssl_pem: |
